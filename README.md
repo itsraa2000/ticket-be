@@ -2,28 +2,6 @@
 
 A robust NestJS-based backend API for the Ticket Management System with advanced features including background job processing, SLA monitoring, and real-time queue management.
 
-## 🚀 Features
-
-- **Complete CRUD Operations** for ticket management
-- **Background Job Processing** with BullMQ and Redis
-- **SLA Monitoring** with automated violation detection
-- **Advanced Pagination** with customizable page sizes
-- **Multi-field Sorting** (status, priority, created_at)
-- **Comprehensive Filtering** and search capabilities
-- **Queue Management** with job tracking and monitoring
-- **TypeScript** throughout for type safety
-- **Database Optimization** with PostgreSQL and TypeORM
-
-## 🛠️ Technology Stack
-
-- **Framework**: NestJS (Node.js framework with dependency injection)
-- **Language**: TypeScript
-- **Database**: PostgreSQL
-- **ORM**: TypeORM
-- **Queue System**: BullMQ + Redis
-- **Validation**: class-validator, class-transformer
-- **Environment**: Docker Compose for development
-
 ## ⚙️ Prerequisites
 
 Before running the backend, ensure you have the following installed:
