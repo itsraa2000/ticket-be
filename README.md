@@ -81,7 +81,9 @@ docker-compose logs redis
 # Development mode with hot reload
 npm run start:dev
 
+
 The backend will start on `http://localhost:3001`
+```
 
 ## 📋 Quick Start Checklist
 
